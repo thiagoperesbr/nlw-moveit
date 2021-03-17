@@ -92,6 +92,6 @@ $ npm run start
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/thiagoperesbr/nlw-moveit/blob/main/LICENSE) para mais detalhes.
 
 Feito por Thiago Mourão Peres 👋🏽 [Entre em contato!](https://www.linkedin.com/in/thiagoperes/)
